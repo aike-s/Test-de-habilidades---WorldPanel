@@ -1,0 +1,36 @@
+Pregunta sobre JSON y JavaScript a nivel general y
+conocer si ha manejado el scripting y la programación.
+
+*** JSON ***
+Implemente en un archivo en formato JSON sus datos personales
+Nombre, edad, teléfono, ubicación y contemple implementar un vector de hobbies.
+JSON
+
+const usuario = {
+    "nombre": "Salome",
+    "edad": "26",
+    "telefono": "3223148681",
+    "ubicacion": "Bogota",
+    "hobbies": ["cine", "caminatas", "aprendizaje", "lectura]
+}
+
+¿Cómo accederías al valor de edad en el siguiente JSON?
+Respuesta: usuario.edad
+Alternativa: usuario['edad']
+
+*** JAVASCRIPT ***
+
+¿Qué mostrará el siguiente código?
+const persona = {
+nombre: "William",
+edad: 30
+};
+ console.log(persona.nombre);
+
+Respuesta: "William"
+
+Cuales editores que utilizaría?
+Respuesta: Vscode
+
+Describa los repositorios que conoce o utiliza
+Respuesta: Github, una plataforma en la nube que permite almacenar, administrar y colaborar en proyectos de codigo utilizando el sistema de control de versiones Git.
